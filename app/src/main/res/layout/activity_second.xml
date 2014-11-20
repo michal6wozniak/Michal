@@ -28,7 +28,7 @@
         android:id="@+id/callButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Zadzwoń"
+        android:text="Zadzwoń do mnie"
         android:layout_below="@+id/phoneNumber"
         android:onClick="callBtnClick"
 
